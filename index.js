@@ -45,7 +45,7 @@ function makesound(key) {
       chh.play();
       break;
     case 'v':
-      var bass = new Audio("sounds/kick-bass.wav");
+      var bass = new Audio("sounds/kick-bass.mp3");
       bass.play();
       break;
     case 'b':
@@ -53,7 +53,7 @@ function makesound(key) {
       snare.play();
       break;
     case 'n':
-      var bass = new Audio("sounds/kick-bass.wav");
+      var bass = new Audio("sounds/kick-bass.mp3");
       bass.play();
       break;
     case 'm':
